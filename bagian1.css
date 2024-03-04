@@ -1,0 +1,13 @@
+a:link, a:visited {
+    text-decoration: none;
+    background-color: rgb(17, 130, 205);
+    color: white;
+    padding: 9px;
+    border-radius: 10px;
+   }
+   a:hover, a:active {
+       background-color: rgb(15, 152, 152);
+   }
+th {
+    font-family: Arial, Helvetica, sans-serif;
+}   
